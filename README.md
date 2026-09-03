@@ -1,7 +1,7 @@
 # 🛒 Amazon Sales Dashboard
 
 ## 📌 Project Overview
-This project is an interactive Excel dashboard designed to analyze Amazon sales performance across multiple cities and states. It provides valuable insights into sales, units sold, product performance, and geographical distribution using Pivot Tables, Pivot Charts, Maps, and KPI cards.
+This project is an interactive Excel dashboard designed to analyze Amaon sales performance across multiple cities and states. It provides valuable insights into sales, units sold, product performance, and geographical distribution using Pivot Tables, Pivot Charts, Maps, and KPI cards.
 
 
 
