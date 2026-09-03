@@ -3,9 +3,7 @@
 ## 📌 Project Overview
 This project is an interactive Excel dashboard designed to analyze Flipkart sales performance across multiple cities and states. It provides valuable insights into sales, units sold, product performance, and geographical distribution using Pivot Tables, Pivot Charts, Maps, and KPI cards.
 
-## 📷 Dashboard Preview
 
-![Flipkart Sales Dashboard](XL%20Amazon%20Sales%20Dashboard.png)
 
 ## 🚀 Features
 - 💰 Total Sales KPI
